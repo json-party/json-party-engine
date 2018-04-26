@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "somata-lambda": "0.0.1"
+  },
+  "devDependencies": {
+    "somata": "^0.3.1"
+  }
+}
